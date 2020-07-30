@@ -1,0 +1,17 @@
+<suite name="Module 2: Manufacturer">
+<test name="Select Manufacturer">
+<classes>
+<class name="elsTech.Module2.SelectManufacturer"></class>
+</classes>
+
+</test>
+
+<test name="Search Product Test">
+<classes>
+<class name="elsTech.Module2.SearchProduct"></class>
+</classes>
+
+</test>
+
+
+</suite>

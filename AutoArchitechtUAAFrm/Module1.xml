@@ -1,0 +1,13 @@
+<suite name="Module1: Login Module">
+	<test name="Validate User">
+		<classes>
+			<class name="elsTech.Module1.ValidateUser"></class>
+		</classes>
+	</test>
+	
+	<test name="ExtractCategories">
+		<classes>
+			<class name="elsTech.Module1.ExtractCategories"></class>
+		</classes>
+	</test>
+</suite>

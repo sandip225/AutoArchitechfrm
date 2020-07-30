@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Module 3: BestSeller" duration-ms="121406" started-at="2020-07-27T13:14:55Z" finished-at="2020-07-27T13:16:56Z">
+    <groups>
+    </groups>
+    <test name="Select BestSellerLinks" duration-ms="76502" started-at="2020-07-27T13:14:55Z" finished-at="2020-07-27T13:16:11Z">
+      <class name="elsTech.Module3.BestsellerLink">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:elsTech.Module3.BestsellerLink@2a5ca609]" name="setUP" is-config="true" duration-ms="18329" started-at="2020-07-27T18:44:55Z" finished-at="2020-07-27T18:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="testExtractBestSellerLinks()[pri:0, instance:elsTech.Module3.BestsellerLink@2a5ca609]" name="testExtractBestSellerLinks" duration-ms="58141" started-at="2020-07-27T18:45:13Z" finished-at="2020-07-27T18:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExtractBestSellerLinks -->
+      </class> <!-- elsTech.Module3.BestsellerLink -->
+    </test> <!-- Select BestSellerLinks -->
+    <test name="Manufacturer Product List" duration-ms="44874" started-at="2020-07-27T13:16:11Z" finished-at="2020-07-27T13:16:56Z">
+      <class name="elsTech.Module3.ManufacturerProducts">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:elsTech.Module3.ManufacturerProducts@3e6fa38a]" name="setUP" is-config="true" duration-ms="1" started-at="2020-07-27T18:46:11Z" finished-at="2020-07-27T18:46:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="testProductsManu()[pri:0, instance:elsTech.Module3.ManufacturerProducts@3e6fa38a]" name="testProductsManu" duration-ms="44870" started-at="2020-07-27T18:46:11Z" finished-at="2020-07-27T18:46:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductsManu -->
+      </class> <!-- elsTech.Module3.ManufacturerProducts -->
+    </test> <!-- Manufacturer Product List -->
+  </suite> <!-- Module 3: BestSeller -->
+</testng-results>

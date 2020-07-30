@@ -1,0 +1,7 @@
+<suite name="GadgetsGallery-24052020">
+	<suite-files>
+		<suite-file path="./Module1.xml"></suite-file>
+		<suite-file path="./Module2.xml"></suite-file>
+		<suite-file path="./Module3.xml"></suite-file>
+	</suite-files>
+</suite>

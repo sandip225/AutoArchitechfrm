@@ -1,0 +1,14 @@
+<suite name="Module 3: BestSeller">
+<test name="Select BestSellerLinks">
+<classes>
+<class name="elsTech.Module3.BestsellerLink"></class>
+</classes>
+
+</test>
+<test name="Manufacturer Product List">
+<classes>
+<class name="elsTech.Module3.ManufacturerProducts"></class>
+</classes>
+
+</test>
+</suite>
